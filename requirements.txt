@@ -1,0 +1,9 @@
+pdfplumber
+pymupdf
+pytesseract
+Pillow
+requests
+beautifulsoup4
+selenium
+clickhouse-connect
+lxml
