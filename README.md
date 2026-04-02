@@ -58,7 +58,7 @@ Pay Estimates -> │  Selenium    │ ── Detail -> │  Text parser │ ─�
 ## NAS Storage Layout
 
 ```
-\\192.168.50.100\pymedia\Data\California\CalTrans\
+
 ├── Bid_Tabulations/
 │   ├── {year}/                    # PDFs organized by year (2019-2026)
 │   ├── bid_summary.csv           # Parsed bid summary (15,847 rows)
@@ -75,7 +75,7 @@ Pay Estimates -> │  Selenium    │ ── Detail -> │  Text parser │ ─�
 
 ## ClickHouse Schema
 
-Database: `Caltrans` on `192.168.50.100:8123`
+Database: `Caltrans` 
 
 | Table | Purpose | Rows | Primary Key |
 |-------|---------|------|-------------|
